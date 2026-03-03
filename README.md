@@ -3,4 +3,4 @@ Each upload creates a job entry in PostgreSQL and returns a unique job_id.
 The system uses a clean API–Service–Persistence architecture.  
 Now includes file validation, storage, and job tracking.  
 Future weeks add Python validation, anomaly detection, and full workflow automation.
-WEEK 2
+WEEK 2---
